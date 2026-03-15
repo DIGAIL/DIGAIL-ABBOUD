@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> أنا <b>دقيل عبود (DIGAIL ABBOUD)</b>, طالب برمجة من <img src="https://cdn-icons-png.flaticon.com/512/197/197626.png" width="13"/> <b>ليبيا</b>. حالياً أدرس في منصة <b>Programming Advice</b> وأطور مهاراتي في البرمجة خطوة بخطوة. </p>
+<p>Welcome to my page! </br> I'm <b>DIGAIL ABBOUD</b>, Programming student from <img src="https://cdn-icons-png.flaticon.com/512/197/197626.png" width="13"/> <b>Libya</b>. Currently learning at <b>Programming Advice</b> platform and growing step by step in my coding journey. </p>
 
 <h3>Things I code with</h3>
 <p>
